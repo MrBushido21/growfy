@@ -311,7 +311,7 @@ body._lock {
 }
 .blockText__h1-h1::before {
   content: "";
-  background: url("../growfy/img/growfyy/backgroundPoints.png");
+  background: url("../img/growfyy/backgroundPoints.png");
   position: absolute;
   background-repeat: no-repeat;
   width: 122px;
@@ -553,7 +553,7 @@ body._lock {
 .partners__luminous::before {
   content: "";
   position: absolute;
-  background: url("../growfy/img/growfyy/bglumino.png");
+  background: url("../img/growfyy/bglumino.png");
   background-repeat: no-repeat;
   top: 0;
   left: 0;
@@ -566,7 +566,7 @@ body._lock {
 .partners__waveless::before {
   content: "";
   position: absolute;
-  background: url("../growfy/img/growfyy/bgwaveless.png");
+  background: url("../img/growfyy/bgwaveless.png");
   background-repeat: no-repeat;
   top: 0;
   right: -38%;
@@ -578,7 +578,7 @@ body._lock {
   .partners__waveless::before {
     content: "";
     position: absolute;
-    background: url("../growfy/img/growfyy/bgwaveless.png");
+    background: url("../img/growfyy/bgwaveless.png");
     background-repeat: no-repeat;
     top: 0;
     right: -37%;
@@ -590,7 +590,7 @@ body._lock {
   .partners__waveless::before {
     content: "";
     position: absolute;
-    background: url("../growfy/img/growfyy/bgwaveless.png");
+    background: url("../img/growfyy/bgwaveless.png");
     background-repeat: no-repeat;
     top: 0;
     right: -30%;
@@ -602,7 +602,7 @@ body._lock {
   .partners__waveless::before {
     content: "";
     position: absolute;
-    background: url("../growfy/img/growfyy/bgwaveless.png");
+    background: url("../img/growfyy/bgwaveless.png");
     background-repeat: no-repeat;
     top: 0;
     right: -27%;
@@ -627,7 +627,7 @@ body._lock {
   .partners__waveless::before {
     content: "";
     position: absolute;
-    background: url("../growfy/img/growfyy/bgwaveless.png");
+    background: url("../img/growfyy/bgwaveless.png");
     background-repeat: no-repeat;
     top: 0;
     right: -38%;
@@ -923,7 +923,7 @@ body._lock {
 }
 .whyChooseUs__photo::before {
   content: "";
-  background: url("../growfy/img/growfyy/backgroundPoints.png");
+  background: url("../img/growfyy/backgroundPoints.png");
   position: absolute;
   background-repeat: no-repeat;
   width: 122px;
@@ -1016,7 +1016,7 @@ body._lock {
   top: 10px;
   width: 16px;
   height: 16px;
-  background: url("../growfy/img/growfyy/Vector.png");
+  background: url("../img/growfyy/Vector.png");
   background-repeat: no-repeat;
 }
 
